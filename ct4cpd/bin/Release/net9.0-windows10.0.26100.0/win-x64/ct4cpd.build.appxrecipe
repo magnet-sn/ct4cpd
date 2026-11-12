@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-NSNTOTI</Machine>
+    <Machine>DESKTOP-A6AJ605</Machine>
     <WindowsUser>user</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>0.0</TargetOsVersion>
@@ -25,45 +25,6 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Assets\SplashScreen.scale-200.png">
-      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Assets\Square44x44Logo.scale-200.png">
-      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Assets\Wide310x150Logo.scale-200.png">
-      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\app.manifest">
-      <PackagePath>app.manifest</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Package.appxmanifest">
-      <PackagePath>Package.appxmanifest</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Properties\launchSettings.json">
-      <PackagePath>Properties\launchSettings.json</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Properties\PublishProfiles\win-arm64.pubxml">
-      <PackagePath>Properties\PublishProfiles\win-arm64.pubxml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\exdeck\ct4cpd\ct4cpd\Properties\PublishProfiles\win-x64.pubxml">
-      <PackagePath>Properties\PublishProfiles\win-x64.pubxml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.commandpalette.extensions\0.9.260303001\runtimes\win-x64\native\Microsoft.CommandPalette.Extensions.dll">
-      <PackagePath>Microsoft.CommandPalette.Extensions.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.netcore.app.runtime.win-x64\9.0.15\runtimes\win-x64\native\Microsoft.DiaSymReader.Native.amd64.dll">
       <PackagePath>Microsoft.DiaSymReader.Native.amd64.dll</PackagePath>
     </AppxPackagedFile>

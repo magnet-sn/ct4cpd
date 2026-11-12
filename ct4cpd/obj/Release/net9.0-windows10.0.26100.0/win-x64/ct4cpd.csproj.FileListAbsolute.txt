@@ -224,3 +224,4 @@ C:\Users\user\exdeck\ct4cpd\ct4cpd\bin\Release\net9.0-windows10.0.26100.0\win-x6
 C:\Users\user\exdeck\ct4cpd\ct4cpd\bin\Release\net9.0-windows10.0.26100.0\win-x64\msquic.dll
 C:\Users\user\exdeck\ct4cpd\ct4cpd\obj\Release\net9.0-windows10.0.26100.0\win-x64\ct4cpd.genpublishdeps.cache
 C:\Users\user\exdeck\ct4cpd\ct4cpd\obj\Release\net9.0-windows10.0.26100.0\win-x64\ProjectArchitectures.txt
+C:\Users\user\exdeck\ct4cpd\ct4cpd\obj\Release\net9.0-windows10.0.26100.0\win-x64\ct4cpd.sourcelink.json

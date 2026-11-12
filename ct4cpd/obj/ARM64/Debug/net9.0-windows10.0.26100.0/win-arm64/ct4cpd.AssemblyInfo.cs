@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ct4cpd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+439306d01f6bfc58e98a74272527f609a3337000")]
 [assembly: System.Reflection.AssemblyProductAttribute("ct4cpd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ct4cpd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
